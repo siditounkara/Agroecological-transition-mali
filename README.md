@@ -1,2 +1,2 @@
 # Agroecological-transition-mali
-Code and models for assessing and simulating agroecological transition pathways in Mali using CAET/TAPE indicators and agent-based modeling.
+Agent-based model for simulating agroecological transition pathways under different policy scenarios in Mali.
